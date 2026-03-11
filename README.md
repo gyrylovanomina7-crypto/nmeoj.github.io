@@ -1,1 +1,3 @@
 # nmeoj.github.io
+
+мимбомба
